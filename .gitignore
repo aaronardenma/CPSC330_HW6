@@ -1,0 +1,6 @@
+data/
+
+img/
+.ipynb_checkpoints
+cpsc330env.yml
+.OTTER_LOG
